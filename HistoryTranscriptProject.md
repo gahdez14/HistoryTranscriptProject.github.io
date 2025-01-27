@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://media.istockphoto.com/id/1200997586/photo/fountain-pen-on-paper-with-ink-text-closeup.webp?b=1&s=612x612&w=0&k=20&c=lf4PLpSlqW_ZWhD30zOWtJ9lEfjoqhkp1aTHDn_R1Tc="
+image: src="img/ICSLOGO.png"
 title: "ICS 496 Capstone - Training AI models to Read 19th Century Archival Documents"
 date: 2025
 published: true
