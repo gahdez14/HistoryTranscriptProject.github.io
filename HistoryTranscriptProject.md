@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/handwriting1.jpg"
+image: img/handwriting1.jpg
 title: "ICS 496 Capstone - Training AI models to Read 19th Century Archival Documents"
 date: 2025
 published: true
