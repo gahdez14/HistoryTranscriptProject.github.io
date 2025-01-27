@@ -1,45 +1,13 @@
 {
   "basics": {
-    "name": "Gerardo Hernandez",
-    "label": "Student, Sr. Systems Engineer",
-    "picture": "https://github.com/gahernan14.png",
+    "name": "ICS 496 - Spring 2025 - Transcribing Historical Documents using Artificial Intelligence",
+    "label": "Information and Computer Science",
+    "picture": "https://www.ics.hawaii.edu/wp-content/uploads/2021/04/ICS-Logo-for-dark-150x150-1.png",
     "email": "gahernan@hawaii.edu",
     "phone": " ",
     "website": "https://gahdez14.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I plan to graduate in Spring, 2025.",
+    "summary": "This page will track the progress and milestones for the ICS 496 group project.  In General, the project's goal is to utilize Artificial Intellegnece and Machine Learning models to accurately transcribe historical, handwritten documentation",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "gahernan14", "url": "http://github.com/gahdez14" },
-      { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/gerardo-hernandez-bb007b114/" }
-    ]
-  },
-  "interests": [
-    { "name": "ArcGIS and electronic charting technologies" },
-    { "name": "Submarine Navigation" },
-    { "name": "Meme generation" },
-    { "name": "CNC woodworking" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Javascript" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "Windows", "ArcGIS", "Git/GitHub"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
-      "studyType": "B.S.",
-      "startDate": "2021-08-01",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
   "work": [
     {
       "company": "Huntington Ingalls Industries",
