@@ -1,16 +1,13 @@
 ---
 layout: project
 type: project
-image: img/atradelogo.png
-title: "Aloha Trades: A College Flea-Market Webpage"
-date: 2023
+image: 
+title: "ICS 496 Capstone - Training AI models to Read 19th Century Archival Documents"
+date: 2025
 published: true
 labels:
-  - Bootstrap
-  - Meteor
-  - React
-  - MongoDB
-summary: "ICS 314 Final Project: Building Aloha-Trades"
+  - AI
+summary: "We will be training AI models to transcribe handwritten documents"
 ---
 
 <img class="img-fluid" src="img/ICSLOGO.png">
@@ -22,8 +19,6 @@ summary: "ICS 314 Final Project: Building Aloha-Trades"
 <p>The goal of our project is to utilize Artificial Intelligence and Machine Learning to accurately transcribe historical, handwritten documents.  The timeline of our project will include determining which tools and approach will best achieve this goal.
 
 </p>
-
-<img class="img-fluid" src="/img/Marketplace-Page.png">
 
 ## Week 1
 
