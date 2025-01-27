@@ -8,43 +8,4 @@
     "website": "https://gahdez14.github.io",
     "summary": "This page will track the progress and milestones for the ICS 496 group project.  In General, the project's goal is to utilize Artificial Intellegnece and Machine Learning models to accurately transcribe historical, handwritten documentation",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-  "work": [
-    {
-      "company": "Huntington Ingalls Industries",
-      "position": "Sr. Systems Engineer 4",
-      "website": "",
-      "startDate": "2021-06-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Lead a team of engineers through the install, and maintenance of various equipment",
-        "Curriculum Development for training and certification evolutions"
-      ]
-    },
-    {
-      "company": "US Navy - USS HAWAII (SSN 776)",
-      "position": "Navigation / Operations Department Chief",
-      "website": "",
-      "startDate": "2018-12-01",
-      "endDate": "2021-06-01",
-      "summary": "",
-      "highlights": [
-        "Responsible for Safe Navigation of a Submarine through 2 Western Pacific Deployments",
-        "Mentor, train and certify a department of 35 personnel in IT, Navigation and Communications Principles.  "
-      ]
-    }
-  ],
-  "awards": [
-       {
-      "title": "Navy-Marine Corps Commendation Medal",
-      "date": "2021",
-      "awarder": "Commander, Submarine Squadron 1",
-      "summary": "For leading a department of 35 Engineering Technician and IT personnel through 2 successful deployments."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
 }
