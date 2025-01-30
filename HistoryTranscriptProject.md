@@ -40,11 +40,13 @@ At the end of our first week, we would have to answer many questions to hopefull
 ## Week 2
 
 <p>For the second week, we dove into the resaerch of several applications and how they could be useful in accomplishing our goal.  One example is Transkribus, which is a popular platform for transcribing archival documents from photos.
-<br>
+<p>
 *** Of note, transcribing is the act of turning audio or video into type.  Technically, the term for converting cursive handwriting to type text is referred to as “translating.”  Due to how awkward that sounds, we will stick to using the term “transcribing” to define the conversion of handwritten cursive into typed text.  ***
-<br>
+<p>
 Transkribus.org is one of the front-running apps used for transcribing documents from handwriting to searchable typed text.  One of our tasks was to first understand and present the legal and privacy rules that the app operates under.  The goal of this is to ensure that there are no hidden agendas or nefarious uses of the data that is being uploaded to the application’s servers.
-<br>
+</p>
+
+<p>
 	The Transkribus project operates as a CO-OP.  The statues of that CO-OP describe their mission statement but make no mention of the legal ownership or use of the documents that are uploaded.  There are operational processes, member rights, and cooperative functions that are mentioned.  This document specifically does not mention the Intellectual Property rights over the data or documents uploaded to their system.  
 	The next document reviewed was the Privacy Policy.  The Privacy Policy does describe how the data is handled and stored.  Namely:
 <ol>
@@ -54,8 +56,9 @@ Transkribus.org is one of the front-running apps used for transcribing documents
 <li> Uploaded data is temporarily stored only for the duration necessary to complete text recognition and is deleted promptly thereafter. </li>
 </ol>
 These are important points that we will make known to the sponsor and may determine the direction in which the data (or what data specifically) is processed.
+</p>
 
-<br>
+<p>
 	Finally, the General Terms and Conditions more expressly document the relationship between user and platform and we surmise the following bullet points:
 
 1.	READ-COOP stores uploaded material only to the extent necessary to provide its services and improve its products. The platform does not guarantee permanent storage unless otherwise agreed upon.
@@ -68,22 +71,26 @@ These are important points that we will make known to the sponsor and may determ
 o	With Training Data- Makes both the model and the underlying training data public.
 o	Without Training Data- Only the model is shared, and the training data is kept private.	
 8.	Users can withdraw consent for sharing at any time.
+</p>
 
-<br>
+<p>
 #### Handwriting OCR
 Another AI transcript app that we found during our research is <a href="https://www.handwritingocr.com/">Handwriting OCR</a>.
+</p>
 
-<br>
+<p>
 According to their website frequently asked questions page, "Handwriting OCR is a document automation service that specialises in digitizing documents containing handwriting. It uses a form of Optical Character Recognition (OCR) developed especially for reading handwriting [[4]](#sources)." 
+</p>
 
-<br>
+<p>
 Highlights about Handwriting OCR:
 1. Supports a wide range of file formats such as PDF, JPG, PNG, GIFT, HEIC, and TIFF.
 2. Supports multiple languages for processing documents.
 3. AI Models are pre-trained on a diverse set of public domain and licensed datasets to ensure privacy and confidentiality of user data.
 4. Handwriting OCR has a comprehensive API that allows users to integrate their services directly into applications.
+</p>
 
-<br>
+<p>
 In terms of the legal and privacy rules that Handwriting OCR operates under, here are some key points we found during our research [[5]](#sources):
 1. Handwriting OCR have explicitly stated that any information uploaded to their services belongs to the users and that they only use the user's uploaded data to deliver their OCR services.
 2. Users have full control over and data that is uploaded to their services. Users are able to delete data at any time. Handwriting OCR will automatically delete processed documents after 7 days by default but if the user wants to either shorten or lengthen the time data is deleted after processing, they are able to adjust that as well. Once data is deleted, it is immediately and permanently removed from Handwriting OCR systems.
@@ -91,6 +98,7 @@ In terms of the legal and privacy rules that Handwriting OCR operates under, her
 4. Any data that is in transit and stored uses industry-standard encryption, implementing rigorous access controls and security protocols. Any non-EU customer data is stored in the US.
 5. Handwriting OCR is also in compliance with several data protection standards and regulations such as GDPR (General Data Protection Regulation) and HIPAA (Health Insurance Portability and Accountability Act).
 6. If a user requests support regarding any of their documents and grants Handwriting OCR permission to view and access their documents, only then will Handwriting OCR view and access a users documents.
+</p>
 
 ### Sources
 
