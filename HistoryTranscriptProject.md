@@ -26,12 +26,12 @@ summary: "We will be training AI models to transcribe handwritten documents"
 
 There were many questions that would have to be answered before we could fully determine the scope of work, and whether that work would be achievable within our timeline.  Despite what would seem like an easy task, there were many questions that needed to be answered:
 
---Are there legal implications for uploading archival documents onto open or subscription AI transcribing services?
-
---Would the Artificial Intelligence models be easier to train down to a specific author?  Or would the models be better suited for covering the vernacular and styles of a given time period?
-
---What products are out there currently that can best achieve our goal?  
-
+<ul>
+  <li>Are there legal implications for uploading archival documents onto open or subscription AI transcribing services?</li>
+  <li>Would the Artificial Intelligence models be easier to train down to a specific author?  Or would the models be better suited for covering the vernacular and styles of a given time period?</li>
+  <li>What products are out there currently that can best achieve our goal?
+</li>
+</ul>
 
 At the end of our first week, we would have to answer many questions to hopefully narrow down the scope and feasibility of our project.
 
