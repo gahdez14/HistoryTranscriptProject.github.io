@@ -78,6 +78,14 @@ Highlights about Handwriting OCR:
 3. AI Models are pre-trained on a diverse set of public domain and licensed datasets to ensure privacy and confidentiality of user data.
 4. Handwriting OCR has a comprehensive API that allows users to integrate their services directly into applications.
 
+In terms of the legal and privacy rules that Handwriting OCR operates under, here are some key points we found during our research [[5]](#sources):
+1. Handwriting OCR have explicitly stated that any information uploaded to their services belongs to the users and that they only use the user's uploaded data to deliver their OCR services.
+2. Users have full control over and data that is uploaded to their services. Users are able to delete data at any time. Handwriting OCR will automatically delete processed documents after 7 days by default but if the user wants to either shorten or lengthen the time data is deleted after processing, they are able to adjust that as well. Once data is deleted, it is immediately and permanently removed from Handwriting OCR systems.
+3. Handwriting OCR will only retain user uploaded data as long as necessary to provide their services, emphasizing that users can delete their data at any time.
+4. Any data that is in transit and stored uses industry-standard encryption, implementing rigorous access controls and security protocols. Any non-EU customer data is stored in the US.
+5. Handwriting OCR is also in compliance with several data protection standards and regulations such as GDPR (General Data Protection Regulation) and HIPAA (Health Insurance Portability and Accountability Act).
+6. If a user requests support regarding any of their documents and grants Handwriting OCR permission to view and access their documents, only then will Handwriting OCR view and access a users documents.
+
 ### Sources
 
 Privacy policy.  08 November 2024.  https://legal.transkribus.org/privacy
@@ -87,6 +95,8 @@ Privacy policy.  08 November 2024.  https://legal.transkribus.org/privacy
 General Terms and Conditions.  2024. Accessed: 27 January 2025.  https://legal.transkribus.org/terms.
 
 [4] Handwriting OCR Frequently Asked Questions Page. 2025. Accessed: 29 January 2025. https://www.handwritingocr.com/#faq.
+
+[5] Handwriting OCR Privacy Policy. 2025. Accessed: 29 January 2025. https://www.handwritingocr.com/privacy.
 
 </p>
 <p>
