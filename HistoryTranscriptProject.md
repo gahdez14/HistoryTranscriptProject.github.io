@@ -37,6 +37,50 @@ At the end of our first week, we would have to answer many questions to hopefull
 
 </p>
 
+
+## Week 2
+
+<p>For the second week, we dove into the resaerch of several applications and how they could be useful in accomplishing our goal.  One example is Transkribus,
+which is a popular platform for transcribing archival documents from photos.  
+
+*** Of note, transcribing is the act of turning audio or video into type.  Technically, the term for converting cursive handwriting to type text is referred to as “translating.”  Due to how awkward that sounds, we will stick to using the term “transcribing” to define the conversion of handwritten cursive into typed text.  ***
+
+Transkribus.org is one of the front-running apps used for transcribing documents from handwriting to searchable typed text.  One of our tasks was to first understand and present the legal and privacy rules that the app operates under.  The goal of this is to ensure that there are no hidden agendas or nefarious uses of the data that is being uploaded to the application’s servers. 
+	The Transkribus project operates as a CO-OP.  The statues of that CO-OP describe their mission statement but make no mention of the legal ownership or use of the documents that are uploaded.  There are operational processes, member rights, and cooperative functions that are mentioned.  This document specifically does not mention the Intellectual Property rights over the data or documents uploaded to their system.  
+	The next document reviewed was the Privacy Policy.  The Privacy Policy does describe how the data is handled and stored.  Namely:
+1.	READ-COOP collects data transferred to Transkribus, including uploaded images, recognized text, ground truth data, trained recognition models, and metadata.
+2.	The data is hosted on servers in Germany and Austria.
+3.	Users maintain control over the data they upload. The policy states that the data must not contain Personal Data unless the user signs a Data Processing Addendum.
+4.	Uploaded data is temporarily stored only for the duration necessary to complete text recognition and is deleted promptly thereafter.
+These are important points that we will make known to the sponsor and may determine the direction in which the data (or what data specifically) is processed.
+
+	Finally, the General Terms and Conditions more expressly document the relationship between user and platform and we surmise the following bullet points:
+
+1.	READ-COOP stores uploaded material only to the extent necessary to provide its services and improve its products. The platform does not guarantee permanent storage unless otherwise agreed upon.
+2.	Documents submitted via Transkribus or APIs are stored only temporarily for processing purposes. For APIs, uploaded data is automatically deleted shortly after processing is completed.
+3.	Ownership: Users retain ownership of all uploaded content, including handwritten material, processed results, and training data.
+4.	Licensing: Users grant READ-COOP a limited, non-exclusive, worldwide, royalty-free license to store, modify, and process user content for the sole purpose of providing and improving its services.	
+5.	Users maintain all intellectual property rights for their material and processed outputs unless explicitly stated otherwise.
+6.	The policy explicitly states that "User Content remains yours," reaffirming user ownership over scanned and uploaded documents.
+7.	Users can share custom-trained models with others via the platform, with two sharing options:
+o	With Training Data- Makes both the model and the underlying training data public.
+o	Without Training Data- Only the model is shared, and the training data is kept private.	
+8.	Users can withdraw consent for sharing at any time.
+
+
+### Sources
+
+Privacy policy.  08 November 2024.  https://legal.transkribus.org/privacy
+
+“Statutes of the READ-COOP SCE with limited liability.”2022.  Accessed 27 January 2025. https://help.transkribus.org/hubfs/Statutes_READ_COOP_SCE_current.pdf 
+
+General Terms and Conditions.  2024. Accessed: 27 January 2025.  https://legal.transkribus.org/terms.
+
+</p>
+<p>
+ Our plan is to propose options to the sponsor of viable ways to achieve the goal of transcribing archival documents using AI. 
+</p>
+
 ## Lessons Learned
 
 <p> Information to follow... 
