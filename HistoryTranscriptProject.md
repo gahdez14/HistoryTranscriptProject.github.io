@@ -67,6 +67,16 @@ o	With Training Data- Makes both the model and the underlying training data publ
 o	Without Training Data- Only the model is shared, and the training data is kept private.	
 8.	Users can withdraw consent for sharing at any time.
 
+#### Handwriting OCR
+Another AI transcript app that we found during our research is <a href="https://www.handwritingocr.com/">Handwriting OCR</a>.
+
+According to their website frequently asked questions page, "Handwriting OCR is a document automation service that specialises in digitizing documents containing handwriting. It uses a form of Optical Character Recognition (OCR) developed especially for reading handwriting [[4]](#sources)." 
+
+Highlights about Handwriting OCR:
+1. Supports a wide range of file formats such as PDF, JPG, PNG, GIFT, HEIC, and TIFF.
+2. Supports multiple languages for processing documents.
+3. AI Models are pre-trained on a diverse set of public domain and licensed datasets to ensure privacy and confidentiality of user data.
+4. Handwriting OCR has a comprehensive API that allows users to integrate their services directly into applications.
 
 ### Sources
 
@@ -75,6 +85,8 @@ Privacy policy.  08 November 2024.  https://legal.transkribus.org/privacy
 “Statutes of the READ-COOP SCE with limited liability.”2022.  Accessed 27 January 2025. https://help.transkribus.org/hubfs/Statutes_READ_COOP_SCE_current.pdf 
 
 General Terms and Conditions.  2024. Accessed: 27 January 2025.  https://legal.transkribus.org/terms.
+
+[4] Handwriting OCR Frequently Asked Questions Page. 2025. Accessed: 29 January 2025. https://www.handwritingocr.com/#faq.
 
 </p>
 <p>
