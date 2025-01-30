@@ -43,7 +43,8 @@ At the end of our first week, we would have to answer many questions to hopefull
 <p>
 *** Of note, transcribing is the act of turning audio or video into type.  Technically, the term for converting cursive handwriting to type text is referred to as “translating.”  Due to how awkward that sounds, we will stick to using the term “transcribing” to define the conversion of handwritten cursive into typed text.  ***
 
-### Transkribus
+<h3>Transkribus</h3>
+
 <p>
 Transkribus.org is one of the front-running apps used for transcribing documents from handwriting to searchable typed text.  One of our tasks was to first understand and present the legal and privacy rules that the app operates under.  The goal of this is to ensure that there are no hidden agendas or nefarious uses of the data that is being uploaded to the application’s servers.
 </p>
@@ -75,7 +76,7 @@ o	Without Training Data- Only the model is shared, and the training data is kept
 8.	Users can withdraw consent for sharing at any time.
 </p>
 
-### Handwriting OCR
+<h3>Handwriting OCR</h3>
 <p>
 Another AI transcript app that we found during our research is <a href="https://www.handwritingocr.com/">Handwriting OCR</a>.
 </p>
@@ -104,18 +105,20 @@ In terms of the legal and privacy rules that Handwriting OCR operates under, her
 </p>
 
 ### Sources
+<ul>
 
-Privacy policy.  08 November 2024.  https://legal.transkribus.org/privacy
+<li>Privacy policy.  08 November 2024.  https://legal.transkribus.org/privacy</li>
 
-“Statutes of the READ-COOP SCE with limited liability.”2022.  Accessed 27 January 2025. https://help.transkribus.org/hubfs/Statutes_READ_COOP_SCE_current.pdf 
+<li>“Statutes of the READ-COOP SCE with limited liability.”2022.  Accessed 27 January 2025. https://help.transkribus.org/hubfs/Statutes_READ_COOP_SCE_current.pdf </li>
 
-General Terms and Conditions.  2024. Accessed: 27 January 2025.  https://legal.transkribus.org/terms.
+<li>General Terms and Conditions.  2024. Accessed: 27 January 2025.  https://legal.transkribus.org/terms. </li>
 
-[4] Handwriting OCR Frequently Asked Questions Page. 2025. Accessed: 29 January 2025. https://www.handwritingocr.com/#faq.
+<li>[4] Handwriting OCR Frequently Asked Questions Page. 2025. Accessed: 29 January 2025. https://www.handwritingocr.com/#faq. </li>
 
-[5] Handwriting OCR Privacy Policy. 2025. Accessed: 29 January 2025. https://www.handwritingocr.com/privacy.
+<li>[5] Handwriting OCR Privacy Policy. 2025. Accessed: 29 January 2025. https://www.handwritingocr.com/privacy. </li>
 
 </p>
+
 <p>
  Our plan is to propose options to the sponsor of viable ways to achieve the goal of transcribing archival documents using AI. 
 </p>
