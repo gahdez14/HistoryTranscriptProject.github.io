@@ -42,6 +42,8 @@ At the end of our first week, we would have to answer many questions to hopefull
 <p>For the second week, we dove into the resaerch of several applications and how they could be useful in accomplishing our goal.  One example is Transkribus, which is a popular platform for transcribing archival documents from photos.
 <p>
 *** Of note, transcribing is the act of turning audio or video into type.  Technically, the term for converting cursive handwriting to type text is referred to as “translating.”  Due to how awkward that sounds, we will stick to using the term “transcribing” to define the conversion of handwritten cursive into typed text.  ***
+
+### Transkribus
 <p>
 Transkribus.org is one of the front-running apps used for transcribing documents from handwriting to searchable typed text.  One of our tasks was to first understand and present the legal and privacy rules that the app operates under.  The goal of this is to ensure that there are no hidden agendas or nefarious uses of the data that is being uploaded to the application’s servers.
 </p>
@@ -73,8 +75,8 @@ o	Without Training Data- Only the model is shared, and the training data is kept
 8.	Users can withdraw consent for sharing at any time.
 </p>
 
+### Handwriting OCR
 <p>
-#### Handwriting OCR
 Another AI transcript app that we found during our research is <a href="https://www.handwritingocr.com/">Handwriting OCR</a>.
 </p>
 
@@ -92,12 +94,13 @@ Highlights about Handwriting OCR:
 
 <p>
 In terms of the legal and privacy rules that Handwriting OCR operates under, here are some key points we found during our research [[5]](#sources):
-1. Handwriting OCR have explicitly stated that any information uploaded to their services belongs to the users and that they only use the user's uploaded data to deliver their OCR services.
-2. Users have full control over and data that is uploaded to their services. Users are able to delete data at any time. Handwriting OCR will automatically delete processed documents after 7 days by default but if the user wants to either shorten or lengthen the time data is deleted after processing, they are able to adjust that as well. Once data is deleted, it is immediately and permanently removed from Handwriting OCR systems.
-3. Handwriting OCR will only retain user uploaded data as long as necessary to provide their services, emphasizing that users can delete their data at any time.
-4. Any data that is in transit and stored uses industry-standard encryption, implementing rigorous access controls and security protocols. Any non-EU customer data is stored in the US.
-5. Handwriting OCR is also in compliance with several data protection standards and regulations such as GDPR (General Data Protection Regulation) and HIPAA (Health Insurance Portability and Accountability Act).
-6. If a user requests support regarding any of their documents and grants Handwriting OCR permission to view and access their documents, only then will Handwriting OCR view and access a users documents.
+<ol>
+<li>Handwriting OCR have explicitly stated that any information uploaded to their services belongs to the users and that they only use the user's uploaded data to deliver their OCR services. </li>
+<li>Users have full control over and data that is uploaded to their services. Users are able to delete data at any time. Handwriting OCR will automatically delete processed documents after 7 days by default but if the user wants to either shorten or lengthen the time data is deleted after processing, they are able to adjust that as well. Once data is deleted, it is immediately and permanently removed from Handwriting OCR systems.</li>
+<li>Handwriting OCR will only retain user uploaded data as long as necessary to provide their services, emphasizing that users can delete their data at any time.</li>
+<li>Any data that is in transit and stored uses industry-standard encryption, implementing rigorous access controls and security protocols. Any non-EU customer data is stored in the US.</li>
+<li>Handwriting OCR is also in compliance with several data protection standards and regulations such as GDPR (General Data Protection Regulation) and HIPAA (Health Insurance Portability and Accountability Act).</li>
+<li>If a user requests support regarding any of their documents and grants Handwriting OCR permission to view and access their documents, only then will Handwriting OCR view and access a users documents.</li>
 </p>
 
 ### Sources
