@@ -111,6 +111,32 @@ In terms of the legal and privacy rules that Handwriting OCR operates under, her
 	</ol>
 </p>
 
+
+<h3> Pen2Txt </h3>
+<p>
+Per their website, <a href="https://www.pen2txt.com/">Pen2Txt</a> is a relatively new Software as a Service (SaaS) platform that uses HTR to convert handwritten documents into digital texts.
+</p>
+
+<p>
+Offerings
+</p>
+<ul>
+  <li>Several image formats are supported, including JPG and PNG (but notably, not PDF)</li>
+  <li>1 credit = 1 page. Their highest pricing option is 49.90€ (~$51.89) per month which offers 500 credits per month.</li>
+  <li>Data collection is in accordance with French law No. 78-17 of January 6, 1978 relating to computers, files, and freedoms: “Under the Data Protection Act of January 6, 1978, the User has the right to access, rectify, delete and oppose their personal data. The User exercises this right: via a contact form, via their personal space.”</li>
+  <li>Intellectual Property: “The User must seek the prior permission of the site for any reproduction, publication, copy of various contents. They commit to using the contents of the site in a strictly private setting, any use for commercial and advertising purposes is strictly prohibited.”</li>
+  <li>The Client chooses a subscription corresponding to the number of monthly credits they will benefit from for the recognition of handwritten documents. 1 credit = 1 page.</li>
+  <li>Provision of Services: “In the absence of reservations or claims expressly issued by the Client upon receipt of the Services, they will be deemed to conform to the order, in quantity and quality. The Client will have a period of 1 month from the provision of the Services to issue complaints by Mail to [contact@pen2txt.com](mailto:contact@pen2txt.com), with all the relevant justifications, to the Service Provider.” </li>
+</ul>
+<p>
+Further Considerations
+</p>
+<ul>
+  <li>Does not offer API integration</li>
+  <li>Source of training data is not publicly available</li>
+  <li>Smaller company with limited background information</li>
+</ul>
+
 ### Sources
 <ul>
 
@@ -123,6 +149,10 @@ In terms of the legal and privacy rules that Handwriting OCR operates under, her
 <li>Handwriting OCR Frequently Asked Questions Page. 2025. Accessed: 29 January 2025. https://www.handwritingocr.com/#faq. </li>
 
 <li>Handwriting OCR Privacy Policy. 2025. Accessed: 29 January 2025. https://www.handwritingocr.com/privacy. </li>
+
+<li>Pen2Txt General Terms of Use.  01 January 2024. Accessed: 30 January 2025. .https://pen2txt.com/cgu </li>
+
+<li>Pen2Txt General Terms and Condition of Sale-Internet. 01 January 2024. Accessed: 30 January 2025. .https://pen2txt.com/cgu </li>
 
 </ul>
 
