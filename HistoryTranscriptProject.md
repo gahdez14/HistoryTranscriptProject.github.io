@@ -23,14 +23,17 @@ summary: "We will be training AI models to transcribe handwritten documents"
 ## Week 1
 
 <p>
+
 For our initial meeting and consultation the project sponsor, we worked to solidify the scope of work that was to be accomplished.  
 <br>
 There were many questions that would have to be answered before we could fully determine the scope of work, and whether that work would be achievable within our timeline.  Despite what would seem like an easy task, there were many questions that needed to be answered:
 
 <ul>
+
   <li>Are there legal implications for uploading archival documents onto open or subscription AI transcribing services?</li>
   <li>Would the Artificial Intelligence models be easier to train down to a specific author?  Or would the models be better suited for covering the vernacular and styles of a given time period?</li>
   <li>What products are out there currently that can best achieve our goal?</li>
+
 </ul>
 
 At the end of our first week, we would have to answer many questions to hopefully narrow down the scope and feasibility of our project.
@@ -92,10 +95,10 @@ According to their website frequently asked questions page, "Handwriting OCR is 
 <p>
 Highlights about Handwriting OCR:
 	<ol>
-		<li>Supports a wide range of file formats such as PDF, JPG, PNG, GIFT, HEIC, and TIFF.</li>
-		<li>Supports multiple languages for processing documents.</li>
+		<li>Supports a wide range of file formats such as PDF, JPG, PNG, GIFT, HEIC, and TIFF. </li>
+		<li>Supports multiple languages for processing documents. </li>
 		<li>AI Models are pre-trained on a diverse set of public domain and licensed datasets to ensure privacy and confidentiality of user data.</li>
-		<li>Handwriting OCR has a comprehensive API that allows users to integrate their services directly into applications.</li>
+		<li>Handwriting OCR has a comprehensive API that allows users to integrate their services directly into applications. </li>
 	</ol>
 </p>
 
@@ -158,6 +161,34 @@ Further Considerations
 
 <p>
  Our plan is to propose options to the sponsor of viable ways to achieve the goal of transcribing archival documents using AI. 
+</p>
+
+## Weeks 3 & 4
+
+<p>
+
+For our 3rd and 4th week we had a clear path of work to accomplish.  Our ultimate goal with this project is to create a trained AI model within the Transkribus
+platform.  The AI model(s) will be trained to a specific time period and/or writer.  This should result 
+in Artificial Intelligence trained to transcribe scanned hand-written documents.  The output is searchable text that can be compiled and relied upon for historical research for years to come.
+</p>
+
+<p> 
+BUT, training an AI model requires something that we currently don't have.  In order to train our AI model, we require 
+20-30 pages of 100% accurate transcribed texts and images.  These should all be relevant to the time period/author that we are looking to train the AI model on.  
+Because these files as of yet do not exist, we had to come up with a solution.
+</p>
+
+<p>
+We utilized the Text Titan I AI model that comes standard on Tranksribus.  The error rate is relatively high due to the fact that it is trained in many languages, many authors, and many time periods.
+From here, the output was text that came at about a 60-70% accuracy.  In order to achieve 100% accuracy, we would either need to read through all of the text ourselves and make the corrections throughout. OR, we could come up with a different solution.
+</p>
+
+<p>
+In the spirit of utilizing AI, we turned to Artificial Intelligence once to assist in what we have termed "post-processing."  
+We took our output data, and configured a custom GPT model to make spelling corrections based on the vernacular of the Marshall Islands (our current focus with historical documents).
+Additionally, corrections to the text would avoid changing the given sentence structure.  One of our follow-on datasets to provide will be for words, proper nouns and other key words, that were relevant to the 
+time period and location.  This trained post-processing model will assist us in quickly turning a 60-70& accurate document into 90-95% accurate document.  Form there, only minor changes are required in order to come up with the training data that we will
+need for training our AI model.  The following week will consist of our first training session.
 </p>
 
 ## Lessons Learned
