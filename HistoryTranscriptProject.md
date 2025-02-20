@@ -9,8 +9,9 @@ labels:
   - AI
 summary: "We will be training AI models to transcribe handwritten documents"
 ---
-
+<div align="center">
 <img class="img-fluid" src="img/ICSLOGO.png">
+</div>
 
 # Training AI Models to Read 19th Century Archival Documents
 
@@ -190,6 +191,64 @@ Additionally, corrections to the text would avoid changing the given sentence st
 time period and location.  This trained post-processing model will assist us in quickly turning a 60-70& accurate document into 90-95% accurate document.  Form there, only minor changes are required in order to come up with the training data that we will
 need for training our AI model.  The following week will consist of our first training session.
 </p>
+
+## Weeks 5 & 6 
+<p>
+<div align="center">
+<img class="img-fluid" src="img/AAI.jpg">
+</div>
+</p>
+
+### Training our First AI Model to Transcribe
+<p>
+Utilizing the Transkribus platform, we created a dataset of 100% transcribed documents.  
+The minimum dataset required for a custom AI model is 20 documents and that's where we started.  
+Achieving 20 100% transcribed documents proved to be time-consuming.  Proper nouns seemed to be the most difficult for both
+the AI model to transcribe (in this context, we mean the built-in transcribing model on Transkribus that served as our starting point for these documents).
+In order to get all of the words right, we have to use manual transcribing of the documents as well. 
+</p>
+<img class="img-fluid" src="img/Step1.png">
+<p>
+The transcribed dataset was used to train the AI model.  Next, we would attempt to validate the accuracy of all of our sources thus far.  
+To recap, we have:
+<ul>
+
+<li> Source 1: Transkribus' built-in Text Titan Model </li>
+
+<li> Source 2: Transkribus' built-in model with Manual Corrections </li>
+
+<li> Source 3: Transkribus' built-in model with AI Post-Processing </li>
+
+<li> Source 4: Our Newly Trained AI model for Marshallese documents </li>
+
+</ul>
+</p>
+
+### Validating our Accuracy
+<p> 
+In order to continuously validate our progress, we took data samples at each step of the process.  By comparing the 
+accuracy obtained at each step to the 100% transcribed documents, we were able to come up with a simple graph to show our CURRENT 
+state of accuracy.  
+</p>
+<table>
+  <tr>
+    <td><img src="img/Step1.png" alt="Transkribus Screen"></td>
+    <td><img src="img/Step3.png" alt="Comparing Text"></td>
+  </tr>
+</table>
+<p>
+The following graph shows our current accuracy ratings:
+<div align="center">
+<img class="img-fluid" src="img/ACCURACYgraph.jpg">
+</div>
+</p>
+<p>
+One of the next major milestones for the project will be to work with the sponsor to 
+find a focus for the next step.  Some options will be in how we can make a GUI or an automated process
+to both transcribe documents and build a searchable dataset for the sponsor to be able to locate documents by searched text.  
+
+</p>
+
 
 ## Lessons Learned
 
